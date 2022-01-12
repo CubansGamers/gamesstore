@@ -4,7 +4,7 @@
 		"type": "game",
 		"name": "SNES STATION",
 		"icon": "https://i.imgur.com/tRlZkN7.png",
-		"links": "http://www.tgi-12-2.de/pkgs/SNES_STATION.pkg",
+		"links": "http://www.tgi-12-2.de/pkgs/SNES_STATION.pkg","button class="site-btn btn-sm"><i class="" aria-hidden="true"></i><a href="
 		"categories": ["Emulator"]
 	},
 	{
