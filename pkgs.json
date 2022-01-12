@@ -4,7 +4,7 @@
 		"type": "game",
 		"name": "SNES STATION",
 		"icon": "https://i.imgur.com/tRlZkN7.png",
-		"links": ["http://www.tgi-12-2.de/pkgs/SNES_STATION.pkg"],
+		"links":"http://www.tgi-12-2.de/pkgs/SNES_STATION.pkg",
 		"categories": ["Emulator"]
 	},
 	{
@@ -13,7 +13,7 @@
 		"type": "game",
 		"name": "ps4Gearsystem",
 		"icon": "https://i.imgur.com/cCOwwir.png",
-		"links": ["http://www.tgi-12-2.de/pkgs/SEGA_EMU_V455.pkg"],
+		"links": "links":"http://www.tgi-12-2.de/pkgs/SNES_STATION.pkg",
 		"categories": ["Emulator"]
 	},
 	{
@@ -22,7 +22,7 @@
 		"type": "game",
 		"name": "ps4NES",
 		"icon": "https://i.imgur.com/xhm4xpj.png",
-		"links": ["http://www.tgi-12-2.de/pkgs/NES_EMU_V455.pkg"],
+		"links":"http://www.tgi-12-2.de/pkgs/SNES_STATION.pkg",
 		"categories": ["Emulator"]
 		
 	},
@@ -32,7 +32,7 @@
 		"type": "game",
 		"name": "PlisskenDooM 0.4",
 		"icon": "https://i.imgur.com/NtVPFHJ.png",
-		"links": ["http://www.tgi-12-2.de/pkgs/PLISSKENDOOM-v0.4.pkg"],
+		"links":"http://www.tgi-12-2.de/pkgs/SNES_STATION.pkg",
 		"categories": ["Game"]
 	},
 	{
@@ -41,7 +41,7 @@
 		"type": "game",
 		"name": "Brutal PS4 DooM",
 		"icon": "https://i.imgur.com/6hS8DdI.png",
-		"links": ["http://www.tgi-12-2.de/pkgs/BRUTAL_PS4_DOOM.pkg"],
+		"links":"http://www.tgi-12-2.de/pkgs/SNES_STATION.pkg",
 		"categories": ["Game"]
 	},
 	{
@@ -50,7 +50,7 @@
 		"type": "game",
 		"name": "★ FLAPPY BIRD  ★ By TER152 ★",
 		"icon": "https://i.imgur.com/aOg6kKM.png",
-		"links": ["http://www.tgi-12-2.de/pkgs/FLAPPY_BIRD.pkg"],
+		"links":"http://www.tgi-12-2.de/pkgs/SNES_STATION.pkg",
 		"categories": ["Game"]
 	},
 	{
@@ -59,7 +59,7 @@
 		"type": "game",
 		"name": "File Manager for PS4™",
 		"icon": "https://i.imgur.com/OcaQwiV.png",
-		"links": ["http://www.tgi-12-2.de/pkgs/FS-MANAGER.pkg"],
+		"links":"http://www.tgi-12-2.de/pkgs/SNES_STATION.pkg",
 		"categories": ["Utility", "File Browser"]
 	},
 	{
@@ -68,7 +68,7 @@
 		"type": "game",
 		"name": "Soilder Mayham v1",
 		"icon": "https://i.imgur.com/csKFWgU.png",
-		"links": ["http://www.tgi-12-2.de/pkgs/SOLDIER_MAYHEM_V1.pkg"],
+		"links":"http://www.tgi-12-2.de/pkgs/SNES_STATION.pkg",
 		"categories": ["Game"]
 	},
 	{
@@ -77,7 +77,7 @@
 		"type": "game",
 		"name": "Streets Of Rage MOD",
 		"icon": "https://i.imgur.com/oaCaWVM.png",
-		"links": ["http://www.tgi-12-2.de/pkgs/STREETS_OF_RAGE_MOD.pkg"],
+		"links":"http://www.tgi-12-2.de/pkgs/SNES_STATION.pkg",
 		"categories": ["Game"]
 	},
 	{
@@ -86,7 +86,7 @@
 		"type": "game",
 		"name": "ORBISMAN (BETA)",
 		"icon": "https://i.imgur.com/ZQpSs5w.png",
-		"links": ["http://www.tgi-12-2.de/pkgs/ORBISMAN_BETA.pkg"],
+		"links":"http://www.tgi-12-2.de/pkgs/SNES_STATION.pkg",
 		"categories": ["Utility"]
 	}
 ]
